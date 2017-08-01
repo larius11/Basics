@@ -12,10 +12,11 @@ Came across a reddit post in **r/programming** that described FizzBuzz as an int
 	3.) Every number that is a multiple of 5 must be replaced by "Buzz". 
 	4.) Every number that is a multiple of both must be replaced by "FizzBuzz".
 
-The exercise is supposed to show how an individual approaches programming in a general sense. 
-	i.e. How they decide to tackel the problem based on their skillset.
+The exercise is supposed to show how an individual approaches programming in a general sense.  i.e. How they decide to tackle the problem based on their skillset.
 
 
 I will be programming FizzBuzz and putting it up to my GitHub to leave a record of my current programming level and may revise it in the future.
+
+Here's the link to the [video](https://www.youtube.com/watch?v=QPZ0pIK_wsc&feature=youtu.be) that inspired me.
 
 *Date: 07/31/2017*
