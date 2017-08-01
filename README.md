@@ -3,7 +3,7 @@
 All skeleton programs I decide to build.
 ---
 
-##FizzBuzz
+## FizzBuzz
 
 Came across a reddit post in r/programming that described FizzBuzz as an interview question. It's simple really.
 
