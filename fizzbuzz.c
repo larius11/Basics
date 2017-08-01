@@ -1,23 +1,21 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 
-main() {
+int main() {
+
+	int foo = 3;
+	int bar = 5;
 
 	for(int i = 1; i < 101; i++) {
-		char fizz[] = "Fizz";
-		char buzz[] = "Buzz";
-		char fizzBuzz[] = "FizzBuzz";
 
-	 	if (i%3 == 0){
-	 		if (i%5 == 0){
-	 			printf("%s\n",fizzBuzz);
-	 		}else{
-	 			printf("%s\n",fizz);
-	 		}
-	 	}else if(i%5 == 0){
-	 		printf("%s\n",buzz);
-	 	}else {
-	 		printf("%i\n",i);
-	 	}
+		char buffer[8];
+
+	 	if (i%foo == 0){strcpy(buffer,"Fizz");}
+	 	if (i%bar == 0){strcpy(buffer,"Buzz");}
+	 	if (strcmp(buffer,"") == 0){itoa(i,buffer,10);}
+
+	 	printf("%s\n",buffer);
 	}
 	return 0;
 }
