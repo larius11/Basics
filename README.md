@@ -5,7 +5,7 @@ All skeleton programs I decide to build.
 
 ## FizzBuzz
 
-Came across a reddit post in r/programming that described FizzBuzz as an interview question. It's simple really.
+Came across a reddit post in **r/programming** that described FizzBuzz as an interview question. It's simple really.
 
 	1.) Start outputting numbers from 1 to 100 in increments of 1. 
 	2.) Every number that is a multiple of 3 must be replaced by "Fizz". 
