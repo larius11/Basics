@@ -28,8 +28,7 @@ Written originally in C. Looking to re-write it for Java, Python, and C++.
 
 This project is an extremely basic interactive calculator program written in C that can Add/Subtract/Multiply for now. The plan is to implement division as well as basic equation solving capabilities. 
 
-TO-DO's:
-
+TO-DO's:  
 	* Check for invalid input on the numbers.
 	* Clean up the user interaction to allow for equation typing instead of operand then numbers.
 	* Clean up switch statement with different functions and capabilities. 
