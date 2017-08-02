@@ -1,7 +1,6 @@
 # Basics
 
-All skeleton programs I decide to build.
----
+All skeleton programs I decide to build will live here.
 
 ## 1 - FizzBuzz
 
@@ -22,6 +21,7 @@ Here's the link to the [video](https://www.youtube.com/watch?v=QPZ0pIK_wsc&featu
 Written originally in C. Looking to re-write it for Java, Python, and C++.
 
 *Date: 07/31/2017*
+
 ---
 
 ## 2 - Calculator
