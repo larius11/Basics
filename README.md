@@ -3,7 +3,7 @@
 All skeleton programs I decide to build.
 ---
 
-## FizzBuzz
+## 1 - FizzBuzz
 
 Came across a reddit post in **r/programming** that described FizzBuzz as an interview question. It's simple really.
 
@@ -19,4 +19,18 @@ I will be programming FizzBuzz and putting it up to my GitHub to leave a record 
 
 Here's the link to the [video](https://www.youtube.com/watch?v=QPZ0pIK_wsc&feature=youtu.be) that inspired me.
 
+Written originally in C. Looking to re-write it for Java, Python, and C++.
+
 *Date: 07/31/2017*
+---
+
+## 2 - Calculator
+
+This project is an extremely basic interactive calculator program written in C that can Add/Subtract/Multiply for now. The plan is to implement division as well as basic equation solving capabilities. 
+
+TO-DO's:
+	* Check for invalid input on the numbers.
+	* Clean up the user interaction to allow for equation typing instead of operand then numbers.
+	* Clean up switch statement with different functions and capabilities. 
+
+*Date: 08/01/2017*
